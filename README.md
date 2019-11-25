@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Applied data science caption
+Applied data science capstone
